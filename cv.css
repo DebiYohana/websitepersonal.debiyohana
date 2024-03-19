@@ -1,0 +1,112 @@
+body {
+    margin: 0;
+    padding: 0;
+}
+.main {
+    width: 100%;
+    float: left;
+    background-color:black;
+ 
+    
+}
+.content {
+    width:100%;
+    float: left;
+ 
+}
+h1,h2 {
+    margin: 10px;
+    color:white;
+}
+
+
+/*
+Design Personal Info
+*/
+#info {
+    background-color:palevioletred;
+    padding: 10px;
+    font-size: 20px;
+    color: white;
+}
+#contact {
+    margin:10px;
+    font-size: 20px;
+    color: white;
+}
+
+#contact-content{
+    margin: 10px;
+    color:white;
+}
+
+ul#info-list {
+    list-style-type: none;
+    margin: 5px 0 0 0;
+    padding:0;
+    color: white;
+}
+li#info-item {
+    border-bottom: 1px solid #fff;
+    padding-top: 5px;
+    padding-left: 10px;
+    padding-bottom:5px;
+}
+
+#summary {
+    font-size: 26px;
+    text-align: justify;
+    
+}
+#exp {
+    border-top: 2px solid #4444;
+    font-size: 26px;
+    text-align: center;
+    border-bottom: 2px solid #4444;
+}
+
+#exp {
+    border-top: 2px solid #4444;
+    font-size: 26px;
+    text-align: center;
+    border-bottom: 2px solid #4444;
+}
+
+table {
+    width: 50%;
+    margin: 50px auto;
+    border-collapse: collapse;
+}
+
+td {
+    padding: 10px;
+    border: 1px solid #ccc;
+    text-align: center;
+}
+
+img {
+    width: 150px;
+    height: 150px;
+    border-radius: 50%;
+}
+
+
+#table {
+    width: 80%;
+    margin: 50px auto;
+    border-collapse: collapse;
+}
+
+td {
+    padding: 10px;
+    border: 1px solid #ccc;
+    text-align: center;
+}
+
+img {
+    width: 150px;
+    height: 150px;
+    border-radius: 50%;
+}
+    
+
